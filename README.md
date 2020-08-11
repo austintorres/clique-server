@@ -1,15 +1,13 @@
-[![CliQue Logo]()
-
 # CliQue: A Description
 
 This application allows the user to create, update, and delete game postings.
 
 ## Important Links
 
-- [API Repository]()
-- [Deployed API]()
-- [Front End Repository]()
-- [Deployed Front End]()
+- [API Repository](https://github.com/austintorres/clique-server)
+- [Deployed API](https://clique-server.herokuapp.com/)
+- [Front End Repository](https://github.com/austintorres/clique-client)
+- [Deployed Front End](https://austintorres.github.io/clique-client/)
 
 ## Planning Story
 
@@ -57,7 +55,8 @@ DELETE | /games/:id
 
 ### Unsolved Problems
 
-- Would like to eventually create a functional message board for teams.
+- Would like to eventually add more models.
+- Would like to eventually add Stripe to my API for store use.
 
 ## Images
 
