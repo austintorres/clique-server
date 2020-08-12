@@ -9,6 +9,14 @@ const gameSchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  location: {
+    type: String,
+    required: true
+  },
+  gamertag: {
+    type: String,
+    required: true
+  },
   status: {
     type: Boolean,
     required: true

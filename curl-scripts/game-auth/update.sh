@@ -12,6 +12,8 @@ curl "${API}${URL_PATH}/${ID}" \
     "game": {
       "title": "'"${TITLE}"'",
       "message": "'"${MESSAGE}"'",
+      "location": "'"${LOCATION}"'",
+      "gamertag": "'"${GAMERTAG}"'",
       "status": "'"${STATUS}"'"
     }
   }'
