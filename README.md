@@ -1,3 +1,5 @@
+![Clique Logo](https://i.imgur.com/k62t9KR.png)
+
 # CliQue: A Description
 
 This application allows the user to create, update, and delete game postings.
